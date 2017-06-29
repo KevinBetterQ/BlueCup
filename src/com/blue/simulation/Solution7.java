@@ -1,6 +1,7 @@
+package com.blue.simulation;
 import java.util.Scanner;
 
-public class Main{
+public class Solution7{
 	static boolean[][] G = new boolean[9][9];
 	static boolean[] vis = new boolean[9];
 	static int N = 7;
