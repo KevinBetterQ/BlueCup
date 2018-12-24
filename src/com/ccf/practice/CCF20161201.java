@@ -55,8 +55,6 @@ public class CCF20161201 {
 		System.out.println(result);
 		
 		
-		
-		
 
 	}
 
